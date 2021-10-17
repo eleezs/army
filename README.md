@@ -1,2 +1,2 @@
 # army
-My first form dubmit to Mongoose Db
+My first form submit to Mongoose Db
